@@ -6,3 +6,4 @@ int main()
     printf("小明今天又得到%d元零花钱\n", POCKETMONEY);
     return 0;  
 }
+
